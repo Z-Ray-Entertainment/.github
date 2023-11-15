@@ -6,8 +6,9 @@ Also we're working on commercial projects such as our own Game series Space Conf
 But dropped the endeavor in favor of using Godot.  
 
 Our 18+ years expertise cover a wide range of programming languages, frameworks and applications such as but not limited to:
-- Java, Python, Rust, C
-- JavaScript, JSF, Angular
+- Java, JavaEE, Python, Rust, C, JavaScript
+- JSF, Angular, PrimeFaces
+- Quarkus, Wildfly, Glassfish, Payara
 - OpenGL, Vulkan
 - Godot, Blender, Autodesk Maya, Davinci Resolve, Krita, Inkscape
 and many more!
