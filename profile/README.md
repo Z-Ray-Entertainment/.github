@@ -18,6 +18,9 @@ With our passion for open source software we are also proud to be part of the ch
 FOSS all the way baby!
 
 ### Social Media
+#### Z-Ray Entertainment
+CGi centered entertainment YouTube Channel:  
+🎨 [Z-Ray Entertainment on YouTube](https://www.youtube.com/@ZRayEntertainment)
 #### Robo n' Tux
 A Linux centered YouTube and Odysee Gaming channel.  
 🎮️ [Robo n' Tux - YouTube](https://www.youtube.com/@RoboNTux)  
