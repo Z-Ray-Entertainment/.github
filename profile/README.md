@@ -34,5 +34,5 @@ A Linux centered YouTube Educational channel.
 Twitch Channel shared with others focused on gaming related live streams. Most of the time on Linux too but not always.  
 🔴 https://www.twitch.tv/couchrebellen
 
-#### X (formerly Twitter)
-✖️ [ZRayEntertains](https://twitter.com/ZRayEntertains)
+#### Mastodon
+🐘 [@ZRayEntertainment](https://mastodon.social/@ZRayEntertainment)
