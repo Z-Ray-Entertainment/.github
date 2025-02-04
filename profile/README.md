@@ -15,8 +15,6 @@ and many more!
 
 With our passion for open source software we are also proud to be part of the change this world needs to improve.
 
-FOSS all the way baby!
-
 ### Social Media
 #### Z-Ray Entertainment
 CGi centered entertainment YouTube Channel:  
